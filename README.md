@@ -97,6 +97,10 @@ You can filter tests using tags in the runner class:
 ```java
 tags = "@booking"
 
+📸 Execution Report
+Last Report can be seen under reports/ExtentReport.html
+Right Click > Open In > Browser > Chrome (Of your Choice)
+
 📸 Reporting & Logs
 ✅ Extent Report: reports/ExtentReport.html
 
