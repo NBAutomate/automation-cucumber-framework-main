@@ -98,7 +98,7 @@ You can filter tests using tags in the runner class:
 tags = "@booking"
 
 📸 Execution Report
-Last Report can be seen under reports/ExtentReport.html
+Last Report can be seen under docs/AssignmentTestExecutionReport_ExtentReport.html
 Right Click > Open In > Browser > Chrome (Of your Choice)
 
 📸 Reporting & Logs
